@@ -62,6 +62,24 @@
       "searchable": 1,
       "changeable": 1,
       "playerType": 2
+    },
+    {
+      "key": "免费资源",
+      "name": "免费资源",
+      "type": 1,
+      "api": "https://yuanlib.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 1
+    },
+    {
+      "key": "红楼资源",
+      "name": "红楼资源",
+      "type": 1,
+      "api": "https://www.hlzyapi.vip/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2
     }
   ],
   "lives": [
